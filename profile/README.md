@@ -1,5 +1,8 @@
 ## Статус CI
 
+## Admin panel
+[![Admin panel](https://github.com/101edok/backend/actions/workflows/admin-panel.yml/badge.svg)](https://github.com/101edok/backend/actions/workflows/admin-panel.yml)
+
 ## Backend
 [![Backend](https://github.com/101edok/backend/actions/workflows/backend.yml/badge.svg?branch=main)](https://github.com/101edok/backend/actions/workflows/backend.yml)
 
