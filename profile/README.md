@@ -12,7 +12,5 @@
 
 
 [![Build android APK](https://github.com/101edok/front/actions/workflows/build-apk.yml/badge.svg)](https://github.com/101edok/front/actions/workflows/build-apk.yml)
-[![E2E Tests Android](https://github.com/101edok/front/actions/workflows/e2e-android.yml/badge.svg)](https://github.com/101edok/front/actions/workflows/e2e-android.yml)
-
 
 [![Build Web](https://github.com/101edok/front/actions/workflows/build-web.yml/badge.svg)](https://github.com/101edok/front/actions/workflows/build-web.yml)
