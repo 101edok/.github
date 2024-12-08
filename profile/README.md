@@ -4,7 +4,8 @@
 [![Admin panel](https://github.com/101edok/backend/actions/workflows/admin-panel.yml/badge.svg)](https://github.com/101edok/backend/actions/workflows/admin-panel.yml)
 
 ## Backend
-[![Backend](https://github.com/101edok/backend/actions/workflows/backend.yml/badge.svg?branch=main)](https://github.com/101edok/backend/actions/workflows/backend.yml)
+[![Backend](https://github.com/101edok/backend/actions/workflows/backend.yml/badge.svg)](https://github.com/101edok/backend/actions/workflows/backend.yml)
+[![CodeCov](https://codecov.io/github/101edok/backend/graph/badge.svg?token=J0FI3AKTTM)](https://codecov.io/github/101edok/backend)
 
 ## Front
 [![Type Check (tsc)](https://github.com/101edok/front/actions/workflows/type-check.yml/badge.svg)](https://github.com/101edok/front/actions/workflows/type-check.yml)
